@@ -1,0 +1,75 @@
+/* tablet size between such and such, phone size between such and such */
+/* tablet and phone - the icon and wordmark for header always stays proportional to the page */
+
+
+/* .header {
+    text-align: center;
+    background-color: black;
+    height: 100%;
+    width: auto;
+    color: white;
+}
+
+h1 {
+    padding-top: 75px;
+    color: white;
+    font-size: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+h2 {
+    padding-top: 18px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+h2 span {
+    font-weight: 700;
+} */
+
+body {
+    font-family: 'Open Sans', sans-serif !important;
+    color: rgba(119,119,119,1);
+}
+
+h1, h2 {
+    color: rgba(18, 18, 18, 1)
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 65px !important;
+}
+
+h2 {
+    font-family: Habibi !important;
+    font-size: 25px !important;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+h3 span {
+    color: rgba(250,75,42,1);
+}
+
+.main-content {
+    margin: 0 auto;
+}
+
+.jon-box {
+    color: black;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background: #dddddd;
+    border: 1px solid #c9c9c9;
+    border-radius: 5px;
+    float: none;
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+}
